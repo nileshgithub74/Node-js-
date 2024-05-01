@@ -1,0 +1,7 @@
+Rest api -json
+
+
+get/users - list all users
+get/user1 - get the user1 with id
+delete the
+

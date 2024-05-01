@@ -1,0 +1,8 @@
+1. npm install express 
+2. npm list express
+
+3. node -v
+4. npm -v
+
+5. npm init  :  to install json package
+  npm install
